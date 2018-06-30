@@ -3,7 +3,7 @@
 
 
 
-def parrot(squak = "Squak!")
+def parrot(squak = "Squawk!")
   
   return squak
   
